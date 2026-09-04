@@ -1,2 +1,2 @@
-# lifeos-privacy
-Privacy Policy for LifeOS
+# Valqerio
+Privacy Policy for Valqerio
